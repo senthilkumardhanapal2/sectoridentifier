@@ -33,6 +33,9 @@
 "https://integtenant5.healthtranzformdev.com/tzf/provider/uiprovider/silent-renew.html",
 "https://integtenant3.healthtranzformdev.com/costestimator/",
 "https://integtenant3.healthtranzformdev.com/tzf/costestimator/uicostestimator/auth.html",
-"https://integtenant3.healthtranzformdev.com/tzf/costestimator/uicostestimator/silent-renew.html"
+"https://integtenant3.healthtranzformdev.com/tzf/costestimator/uicostestimator/silent-renew.html",
+"https://integtenant3.healthtranzformdev.com/drivingbetterhealth/uidrivingbetterhealth/",
+"https://integtenant3.healthtranzformdev.com/drivingbetterhealth/uidrivingbetterhealth/auth.html",
+"https://integtenant3.healthtranzformdev.com/drivingbetterhealth/uidrivingbetterhealh"
 
 ]
